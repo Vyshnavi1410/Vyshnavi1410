@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Applied Computer Science
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me vyshnavikattamuri4@gmail.com
+- 📫 How to reach me vyshnavikattamuri14@gmail.com
 
 <!---
 Vyshnavi1410/Vyshnavi1410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
